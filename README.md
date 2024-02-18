@@ -20,7 +20,7 @@ Here I love to occasionally post my projects OR just use it as a free file stora
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px><b>Learn more 💬
 <picture> <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*1pA96Ot8WpyVi_fowrYCCQ.gif" width = 400px></picture>
 
-- 💼 Currently working at **Reliance JIO as a DevOps Engineer**.
+- 💼 Currently working at **JIO Platform Ltd. as a DevOps Engineer**.
 - 🌱 Learning and exploring DevOps tools.
 - 👯 Frond-end Intern at Coutloot.
 - 🎓 EXTC Engineer graduate 2020.
@@ -49,6 +49,8 @@ Here I love to occasionally post my projects OR just use it as a free file stora
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -63,10 +65,15 @@ Here I love to occasionally post my projects OR just use it as a free file stora
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
-<h4>##### Some of the tools & technologies I'm currently exploring!!</h4>
+<h4>##### Some Courses & Certfications!!</h4>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ☁️ **AWS Cloud Essentials Technincal issued by AWS(Coursera)**. 
+- 🐳 **Introduction to Containers with Docker, Kubernetes and OpenShift issued by IBM(Coursera)**.
+- 🐧 **Linux Foundation Cert Prep: Essetial Commands (Ubuntu) issued by LinkedIn**.
+- ☸️ **YouTube Labs - Kubernetes Crash Course by KodeKloud**.
+
+<br>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riddhim&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
